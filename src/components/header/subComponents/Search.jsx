@@ -25,7 +25,7 @@ const Search = () => {
         </div>
         <div className="bg-white w-full p-[7px_5px] rounded-[5px] flex">
           <input
-            className="w-full"
+            className="w-full text-black border-none p-0 outline-none"
             type="text"
             placeholder="멤버스 데이 최대 30% 쿠폰"
           />

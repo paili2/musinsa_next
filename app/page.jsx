@@ -1,4 +1,4 @@
-import Slider from "@/src/components/main/slider/Slider";
+import Slider from "@/src/components/section/main/slider/Slider";
 
 export default function Home() {
   return (

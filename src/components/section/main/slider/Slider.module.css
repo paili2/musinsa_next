@@ -1,0 +1,12 @@
+/* .swiper-button-next,
+.swiper-button-prev {
+  background-color: rgba(0, 0, 0, 0.5); /* 버튼 배경색 */
+  color: white; /* 버튼 글자색 */
+  padding: 10px; /* 버튼 크기 */
+  border-radius: 50%; /* 버튼 둥근 모양 */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: rgba(0, 0, 0, 0.7); /* 버튼 hover시 배경색 */
+} */
