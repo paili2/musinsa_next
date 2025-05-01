@@ -8,6 +8,8 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  const hadFooter = true;
+
   return (
     <html lang="en">
       <body className="w-full max-w-7xl mx-auto px-5 pb-5">

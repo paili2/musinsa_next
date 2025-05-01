@@ -17,7 +17,9 @@ const My = () => {
           <p className="text-xs">
             무신사 회원은 최대 4% 적립, 전 상품 무료배송 혜택
           </p>
-          <Link href="/member/login">로그인/회원가입하기</Link>
+          <Link className="text-[yellow]" href="/member/login">
+            로그인/회원가입하기
+          </Link>
         </div>
         <div>
           <div className="grid grid-cols-3 bg-white p-2">

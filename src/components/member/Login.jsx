@@ -5,7 +5,7 @@ import Layout from "./inLayout/Layout";
 const Login = () => {
   return (
     <Layout memberService={"로그인/회원가입"}>
-      <form className="flex flex-col gap-4" action="">
+      <form className="flex flex-col gap-4 h-100%" action="">
         <div className="w-full border-1 border-[#8a8a8a] p-2 rounded-sm">
           <input
             className="w-full appearance-none border-none outline-none"
